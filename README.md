@@ -10,3 +10,4 @@ I am learning Git
 # Git class
 
 - fix-B
+- feature-C
